@@ -29,7 +29,7 @@ HelpingHands helps non-profits and social organizations manage volunteer work an
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Backend**:
 - MongoDB (Database)
@@ -44,7 +44,7 @@ HelpingHands helps non-profits and social organizations manage volunteer work an
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repository
 
