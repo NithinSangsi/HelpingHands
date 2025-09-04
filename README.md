@@ -32,16 +32,15 @@ HelpingHands helps non-profits and social organizations manage volunteer work an
 ## 🛠️ Tech Stack
 
 **Backend**:
+- MongoDB (Database)
 - Node.js
 - Express.js
-- MongoDB (Database)
 - EJS (for templating)
 - Socket.io (for real-time updates)
 
 **Frontend**:
 - React.js (Admin Panel)
 - Bootstrap (UI framework)
-
 
 ---
 
@@ -50,7 +49,7 @@ HelpingHands helps non-profits and social organizations manage volunteer work an
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/HelpingHands
+git clone https://github.com/NithinSangsi/HelpingHands.git
 cd HelpingHands
 ```
 
