@@ -1,16 +1,16 @@
-# 🤝 HelpingHands: Volunteer & Donation Management Platform
+# 🤝🫂 HelpingHands: Volunteer & Donation Management Platform
 
 HelpingHands is a full-stack web platform for managing volunteer registrations, tracking donations, and facilitating interaction between donors, volunteers, and administrators. The platform is designed to simplify social initiatives, supporting causes with volunteer coordination and donation tracking. It uses a modern web stack with **Node.js**, **JavaScript** , **Express**, **MongoDB**, and **React** for the admin panel.
 
 ---
 
-## 🔍 Project Overview
+## Project Overview
 
 HelpingHands helps non-profits and social organizations manage volunteer work and donations. Volunteers can sign up for different causes, track their hours, and manage events. Donors can contribute and see the status of their donations. Admins have a full view of all activities through an easy-to-use admin panel built with **React**.
 
 ---
 
-## 🎯 Features
+## Features
 
 - 🔑 **User Registration**: Volunteers and donors can sign up to contribute to causes.
 - 💸 **Donation Tracking**: Track donations made and monitor their statuses.
@@ -20,7 +20,7 @@ HelpingHands helps non-profits and social organizations manage volunteer work an
 
 ---
 
-## 💡 Real-World Applications
+## Real-World Applications
 
 - 🌍 **Social Welfare**: Helping NGOs and non-profits streamline their volunteer and donation management.
 - 🏥 **Healthcare Support**: Manage donations and volunteers for hospitals and health initiatives.
@@ -29,7 +29,7 @@ HelpingHands helps non-profits and social organizations manage volunteer work an
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 **Backend**:
 - MongoDB (Database)
@@ -114,14 +114,14 @@ Admins can manage user accounts, monitor donations, and control volunteer assign
 
 View donation history and volunteer activity in real-time.
 
-### 📬 Contact
+### Contact
 👤 S Nithin
 
 🔗 GitHub: https://github.com/NithinSangsi
 
 📧 Email: nithinsangsi60@gmail.com
 
-#### 🙏 Acknowledgements
+#### Acknowledgements
 Express.js
 
 React.js
@@ -132,7 +132,7 @@ Bootstrap for styling
 
 Socket.io for real-time updates
 
-### 🚀 License
+###  License
 MIT License. See LICENSE file for more details
 
 
